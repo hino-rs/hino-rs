@@ -1,74 +1,39 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=RustRustRustRustRustRustRustRustRustRustRustRust" alt="Typing SVG" />
 </div>
