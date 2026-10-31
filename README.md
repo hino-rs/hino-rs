@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/hino-rs?style=flat-square&logo=github&label=Followers&labelColor=0B1026&color=3FA9A8" alt="Followers" />
-  <img src="https://img.shields.io/badge/Kanagawa-Earth-E2472C?style=flat-square&labelColor=0B1026" alt="Kanagawa, Earth" />
+  <img src="https://img.shields.io/badge/Kanagawa-Earth-E2472C?style=flat-square&labelColor=0B1026" alt="Kanagawa-Japan" />
 </p>
 
 <h2 align="center">Tech Stack</h2>
